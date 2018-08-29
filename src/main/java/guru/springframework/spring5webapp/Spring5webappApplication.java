@@ -12,6 +12,8 @@ public class Spring5webappApplication {
 
 		//h2 (embedded) database console url: http://localhost:8080/h2-console
 
+		//http://localhost:8080/authors
+
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
 }
